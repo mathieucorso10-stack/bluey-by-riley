@@ -17,12 +17,12 @@ targets:
       - path: Shared
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: co.visionairy.googly.phone
+        PRODUCT_BUNDLE_IDENTIFIER: com.mathieu.bluey
         PRODUCT_NAME: Bluey
         TARGETED_DEVICE_FAMILY: "1"
         GENERATE_INFOPLIST_FILE: YES
         CODE_SIGN_STYLE: Automatic
-        DEVELOPMENT_TEAM: NF73NSV867
+        DEVELOPMENT_TEAM: 9L97QGHTSC
         # Set your team in Xcode (Signing & Capabilities) the first time you run it.
     info:
       path: iOS/Info.plist
